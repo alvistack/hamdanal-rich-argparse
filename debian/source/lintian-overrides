@@ -1,0 +1,5 @@
+python-rich-argparse source: file-without-copyright-information
+python-rich-argparse source: no-debian-changes
+python-rich-argparse source: source-contains-prebuilt-windows-binary
+python-rich-argparse source: source-is-missing
+python-rich-argparse source: source-package-encodes-python-version
